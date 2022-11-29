@@ -2,7 +2,7 @@
 
 ### Hi there 👋,
 I'm SangHyeok Kang. I'm in the Master Program at **Dong-Eui University** in Busan Campus.</br>
--  :mortar_board: Computer Software Engineering, Dong-Eui University, Busan, Korea
+<!-- -  :mortar_board: Computer Software Engineering, Dong-Eui University, Busan, Korea -->
 
 #### :clipboard: PortFolio</br>
 
