@@ -3,7 +3,6 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=99aabb&height=250&section=header&text=SangHyeok%20Kang&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 </div>
 
-----------------------------------------
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgur200002"/>
 
 ### Hi there 👋,
