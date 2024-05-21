@@ -1,7 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=99aabb&height=250&section=header&text=SangHyeok%20Kang&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=99aabb&height=250&section=header&text=SangHyeok%20Kang&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+</div>
+
+----------------------------------------
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgur200002"/>
 
 ### Hi there 👋,
-I'm SangHyeok Kang. I'm in the Master Program at **Dong-Eui University** in Busan Campus.</br>
+
+
+I'm SangHyeok Kang. I'm in the Master Program at **Dong-Eui University** in Busan Campus.</br> 
 <!-- -  :mortar_board: Computer Software Engineering, Dong-Eui University, Busan, Korea -->
 
 #### :clipboard: PortFolio
@@ -10,6 +18,7 @@ I'm SangHyeok Kang. I'm in the Master Program at **Dong-Eui University** in Busa
 #### :computer: Tech Stack :computer:
 Techs that I've used more than once
 </br>
+
 - **Languages** </br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp;
@@ -18,6 +27,8 @@ Techs that I've used more than once
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp; 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp;
+
+
 
 - **Techs( Framework )** </br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp;
@@ -37,6 +48,23 @@ Techs that I've used more than once
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp;
 
+
+#### :sparkles: Stats :sparkles:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghyeok-Kang&layout=donut&show_icons=true" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SangHyeok-Kang&show_icons=true" width=56% />
+</a>
+
+
+<!--
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=99aabb&height=90&section=footer&text=&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
+</div>
+-->
 <!--
 **SangHyeok-Kang/SangHyeok-Kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
