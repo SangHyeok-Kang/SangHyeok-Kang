@@ -15,7 +15,6 @@
   
 |Date|Content|Organization|
 |:--:|:------------------------------------:|:---:|
-|2024.05 ~|KB IT's Your Life 5기 |교육부-한국과학창의재단<br>Dong-Eui University|
 |2018.03<br> ~ <br> 2024.02|Bachelor of Computer Software Engineering<br>(컴퓨터소프트웨어공학과 학사)|Dong-Eui University|
 |2022.03<br> ~ <br> 2024.02|코딩 교육 봉사 동아리 CPU (총무 ~2023.02)<br>컴퓨터소프트웨어공학과|Dong-Eui University|
 |2023.01<br> ~ <br> 2023.02|2023 디지털새싹 SW·AI교육 캠프<br>멘토 및 안전관리요원|교육부-한국과학창의재단<br>Dong-Eui University|
