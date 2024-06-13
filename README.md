@@ -15,7 +15,7 @@
   
 |Date|Content|Organization|
 |:--:|:------------------------------------:|:---:|
-|2018.03<br> ~ <br> 2024.02|Bachelor of Computer Software Engineering<br>(컴퓨터소프트웨어공학과 학사)|Dong-Eui University|
+|2018.03<br> ~ <br> 2024.02|Bachelor of Science in Computer Software Engineering<br>(컴퓨터소프트웨어공학과 학사)|Dong-Eui University|
 |2022.03<br> ~ <br> 2024.02|코딩 교육 봉사 동아리 CPU (총무 ~2023.02)<br>컴퓨터소프트웨어공학과|Dong-Eui University|
 |2023.01<br> ~ <br> 2023.02|2023 디지털새싹 SW·AI교육 캠프<br>멘토 및 안전관리요원|교육부-한국과학창의재단<br>Dong-Eui University|
 |2022.07<br> ~ <br> 2022.08|2022 동의대학교 고교 써머스쿨 총괄 및 교사<br>컴퓨터소프트웨어공학과|Dong-Eui University|
