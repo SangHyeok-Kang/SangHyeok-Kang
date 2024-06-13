@@ -3,16 +3,31 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=99aabb&height=250&section=header&text=SangHyeok%20Kang&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 </div>
 
+<!-- ### 강상혁/Kang SangHyeok -->
+
+**Don't Give Up!** 쉽게 포기하지 않으며 실패를 두려워하지 않는 백엔드 개발자 강상혁입니다. <br>
+협업을 통해 함께 성장하는 것을 중요하게 생각하며, 새로운 도전을 통해 변화하는 IT 환경에서 앞서 나가는 개발자가 되고자 합니다. </br> 
+
+🙋‍♂️ Backend Developer<br>
+:mortar_board: Computer Software Engineering, Dong-Eui University, Busan, Korea <br>
+## 📝Experience
+<div align="center">
+  
+|Date|Content|Organization|
+|:--:|:------------------------------------:|:---:|
+|2024.05 ~|KB IT's Your Life 5기 |교육부-한국과학창의재단<br>Dong-Eui University|
+|2018.03<br> ~ <br> 2024.02|Bachelor of Computer Software Engineering<br>(컴퓨터소프트웨어공학과 학사)|Dong-Eui University|
+|2022.03<br> ~ <br> 2024.02|코딩 교육 봉사 동아리 CPU (총무 ~2023.02)<br>컴퓨터소프트웨어공학과|Dong-Eui University|
+|2023.01<br> ~ <br> 2023.02|2023 디지털새싹 SW·AI교육 캠프<br>멘토 및 안전관리요원|교육부-한국과학창의재단<br>Dong-Eui University|
+|2022.07<br> ~ <br> 2022.08|2022 동의대학교 고교 써머스쿨 총괄 및 교사<br>컴퓨터소프트웨어공학과|Dong-Eui University|
+
+</div>
+
+##
+
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgur200002"/>
-
-### Hi there 👋,
-
-
-I'm SangHyeok Kang. I'm in the Master Program at **Dong-Eui University** in Busan Campus.</br> 
-<!-- -  :mortar_board: Computer Software Engineering, Dong-Eui University, Busan, Korea -->
-
-#### :clipboard: PortFolio
-#### https://drive.google.com/file/d/1G2W4yp2kKyPjpZVm4gluqv3HKBFeoE5C/view?usp=sharing
+<!-- #### :clipboard: PortFolio
+#### https://drive.google.com/file/d/1G2W4yp2kKyPjpZVm4gluqv3HKBFeoE5C/view?usp=sharing -->
 
 #### :computer: Tech Stack :computer:
 Techs that I've used more than once
